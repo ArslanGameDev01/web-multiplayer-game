@@ -1,0 +1,325 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b957444e40a80eb489edc7f3370b470f, type: 3}
+  m_Name: DummyData
+  m_EditorClassIdentifier: 
+  root:
+    status: 1
+    message: FAQs fetched successfully
+    data:
+    - game_name: Capital
+      image: http://13.48.1.190/media/11/capital-quiz.png
+      questions:
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+      - id: 
+        question: 
+        option_a: 
+        option_b: 
+        option_c: 
+        option_d: 
+    - game_name: Periodic Table
+      image: http://13.48.1.190/media/12/periodic-quiz.png
+      questions: []
+    statusCode: 200
